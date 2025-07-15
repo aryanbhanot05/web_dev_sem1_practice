@@ -51,8 +51,7 @@ web_dev_sem1_practice/
 ---
 
 ## 📸 Screenshots
-
-![Overview](validation%20screenshot.png)
+![Overview](Overview.png)
 
 ---
 
